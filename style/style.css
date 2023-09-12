@@ -89,7 +89,16 @@ p {
 @media screen and (max-width: 900px) {
 
     header {
+        margin: 0;
+    }
+
+    header a {
         display: none;
+    }
+
+    header button {
+        margin-left: 60%;
+        
     }
 
     .img-logo {
