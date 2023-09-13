@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://marciogomes-jr.github.io/we-care/
+https://main--sparkly-daffodil-dc25b1.netlify.app/
 
 O **WE CARE** é a interface de um site simples, criado para testar o aprendizado de HTML5 e CSS com responsividade, foi desenvolvido em aula no programa **Dev Club** com [Rodolfo Mori](https://www.linkedin.com/in/rodolfomori/).
 
